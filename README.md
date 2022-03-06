@@ -1,6 +1,6 @@
 # TransactionProject
 
-**This Project is under contruction.
+** This Project is under contruction. **
 
 Only the The register and Login are implemented on the backend.
 On the frontEnd need to implement Global context to store User Stats and create a axios interceptor to before any request to check if the token is expired.
